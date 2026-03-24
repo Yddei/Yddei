@@ -3,7 +3,7 @@
 - Singapore Polytechnic - Dip. Infocomm Security Management
 
 ## Field
-- Backend Development
+- Backend Developer
   - Node.js / Express.js
   - Spring Boot / Jakarta EE
   - MySQL
