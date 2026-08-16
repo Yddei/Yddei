@@ -1,5 +1,6 @@
 ## Bio
-- Nanyang Technological University - BEng. Information Engineering and Media 
+- Nanyang Technological University - BEng. Electrical and Electronics Engineering (2026-present) 
+- Nanyang Technological University - BEng. Information Engineering and Media (2025-2026) 
 - Singapore Polytechnic - Dip. Infocomm Security Management
 
 ## Field
